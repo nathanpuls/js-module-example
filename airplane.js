@@ -3,11 +3,11 @@ let Airplane = {};
 Airplane.availableAirplanes = [
   {
     name: 'AeroJet',
-    fuelCapacity: 800
+    fuelCapacity: 8,000,000
   },
   {
     name: 'SkyJet',
-    fuelCapacity: 500
+    fuelCapacity: 5,000,000
   }
 ];
 
